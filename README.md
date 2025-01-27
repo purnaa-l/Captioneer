@@ -50,6 +50,8 @@
 - **Frontend**: Streamlit (Python-based framework for rapid development)
 - **Backend**: Google Generative AI (for generating captions, advice, and analyzing engagement trends)
 - **User Interface**: Custom UI components in Streamlit for easy interaction
+- **Data Handling**: pandas (data analysis), altair (data visualization for graphs)
+
 
 ---
 
